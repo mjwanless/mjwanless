@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
 <h3 align="center">I'm a developer and musician from Vancouver, BC. I'm passionate about personal development, music, interactive art, and finding ways to enhance education via effective and novel applications of technology.</h3>
 
-- 🌱 I’m currently learning: **React, C, Java, Full Stack development, and Python**
+- 🌱 I’m currently learning: **React/full stack dev, Three.js/GSAP(), Java, and Python**
 
 - 📫 How to reach me: **mwanless2@my.bcit.ca or mjwanless@gmail.com**
 
