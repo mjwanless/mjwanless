@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
 <h3 align="center">I'm a developer and musician from Vancouver, BC. I'm passionate about personal development, music, interactive art, and finding ways to enhance education via effective and novel applications of technology.</h3>
 
-- 🌱 I’m currently learning: **React/full stack dev, Three.js/GSAP(), Java, and Python**
+- 🌱 I’m currently learning: **React/full stack dev, Three.js/GSAP, Java, and Python**
 
 - 📫 How to reach me: **mwanless2@my.bcit.ca or mjwanless@gmail.com**
 
-- ⚡ Fun fact: **I spent 5 years as a Music Director and Orchestra Musician on various cruise ships. I'm also learning Spanish (slowly) and can bake a mean pie**
+- ⚡ Fun fact: **I spent 5 years as a Music Director and Orchestra Musician on various cruise ships. I'm also learning Spanish (slowly) and **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
