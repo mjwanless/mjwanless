@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **mwanless2@my.bcit.ca or mjwanless@gmail.com**
 
-- ⚡ Fun fact: **I spent 5 years as a Music Director and Orchestra Musician on various cruise ships. I'm also learning Spanish (slowly) and **
+- ⚡ Fun fact: **I spent 5 years as a Music Director and Orchestra Musician on various cruise ships. I'm also learning Spanish (slowly)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
